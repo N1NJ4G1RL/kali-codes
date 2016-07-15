@@ -1,0 +1,8 @@
+cd /root/Desktop -switch to directory
+ls - see whats inside directory
+gedit passwords.txt (edit files-txt)
+
+rename: mv passwords.txt passsswprds.txt
+
+its not the same S and s.
+
